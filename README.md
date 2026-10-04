@@ -1,1 +1,2 @@
-# ROKA - Studies while serving in military
+# ROKA
+Studies in Military
